@@ -1,5 +1,4 @@
 # Indesign Scripting
----
 These scripts are used to make indesign production slightly easier and more manageable. This uses our own flavour of markdown and will eventually be converted to align with HTML and potentially include object styles for indesign templates.
 
 ## Install
