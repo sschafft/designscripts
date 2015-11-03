@@ -1,0 +1,1 @@
+({location:[678, 271], qlist_size:[503, 464], col_widths:[150, 250, 100], chain:"[Custom]", queries:["#H1"], collect_items:false, helptips:false, folder:""})
