@@ -4,7 +4,7 @@ These scripts are used to make indesign production slightly easier and more mana
 ## Install
 To install, clone the repo to the following folder (Macintosh OSX)
 
-`git clone git@github.com:biveeco/designscripts.git ~/Library/Preferences/Adobe/Adobe\ Indesign/Version\ 11.0/en_US/`
+`git clone git@github.com:biveeco/designscripts.git ~/Library/Preferences/Adobe\ Indesign/Version\ 11.0/en_US/`
 
 ## Contents
 These design scripts include the following functions:
