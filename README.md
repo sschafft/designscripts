@@ -23,7 +23,7 @@ The only setting that changes when exporting files is whether to export as sprea
 
 To load the print presets, open Indesign and navigate to the following
 
-`File > Adobe PDR Presets > Define`
+`File > Adobe PDF Presets > Define`
 
 Then click on `Load` and navigate to the folder containing the print presets and select the export settings to be loaded. These presets will be available when exporting Indesign files to PDF.
 
